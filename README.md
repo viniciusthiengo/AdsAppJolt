@@ -2,7 +2,7 @@
 
 Projeto Java Android do artigo [Monetizando Sua APP Android Com AppJolt no Uninstall](https://www.thiengo.com.br/monetizando-sua-app-android-com-appjolt-no-uninstall) do Blog [Thiengo.com.br](https://www.thiengo.com.br).
 
-Artigo que apresenta em detalhes a API de anúncios da AppJolt.
+Artigo que apresenta em detalhes a API de anúncios AppJolt.
 
 API que permite a monetização de aplicativos Android assim que o usuário desinstala ou atualiza o app.
 
